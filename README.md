@@ -1,0 +1,118 @@
+# cintel-01-getting-started
+
+[![Python 3.14+](https://img.shields.io/badge/python-3.14%2B-blue?logo=python)](#)
+[![MIT](https://img.shields.io/badge/license-see%20LICENSE-yellow.svg)](./LICENSE)
+
+> Professional Python project for continuous intelligence.
+
+Continuous intelligence systems monitor data streams, detect change, and respond in real time.
+This course builds those capabilities through working projects.
+
+In the age of generative AI, durable skills are grounded in real work:
+setting up a professional environment,
+reading and running code,
+understanding the logic,
+and pushing work to a shared repository.
+Each project follows a very similar structure based on professional Python projects.
+These projects are **hands-on textbooks** for learning applied continuous intelligence.
+
+## This Project
+
+This is the **getting started** project.
+The goal is to copy this repository,
+set up your environment so you can run the pipeline,
+and push the new file it generates to GitHub.
+Then, you'll change the authorship to make it yours and explore the project.
+No major code changes required.
+
+You'll work with just these files:
+
+- **src/cintel/pipeline_case.py** - where the magic happens
+- **pyproject.toml** - update authorship & links
+- **zensical.toml** - update authorship & links
+
+The goal is just to confirm you can run projects on your machine.
+Once you get the first project running successfully,
+the rest of the course is much easier.
+
+## First: Follow These Instructions
+
+Follow the [step-by-step workflow guide](https://denisecase.github.io/pro-analytics-02/workflow-b-apply-example-project/) to complete:
+
+1. Phase 1. **Start & Run**
+2. Phase 2. **Change Authorship**
+3. Phase 3. **Read & Understand**
+
+## Challenges
+
+Challenges are expected.
+Sometimes instructions may not quite match your operating system.
+When issues occur, share screenshots, error messages, and details about what you tried.
+Working through issues is part of implementing professional projects.
+
+## Success
+
+After completing Phase 1. **Start & Run**, you'll have your own GitHub project,
+running on your machine, and running the example will print out:
+
+```shell
+========================
+Pipeline executed successfully!
+========================
+```
+
+And a new file named `project.log` will appear in the project folder.
+
+Once you see it, you're 90% of the way there.
+After that, you'll just make the project yours and get started exploring.
+
+## Command Reference
+
+The commands below are used in the workflow guide above.
+They are provided here for convenience.
+
+Follow the guide for the **full instructions**.
+
+<details>
+<summary>Show command reference</summary>
+
+### In a machine terminal (open in your `Repos` folder)
+
+After you get a copy of this repo in your own GitHub account,
+open a machine terminal in your `Repos` folder:
+
+```shell
+# Replace username with YOUR GitHub username.
+git clone https://github.com/username/cintel-01-getting-started
+cd cintel-01-getting-started
+code .
+```
+
+### In a VS Code terminal
+
+```shell
+uv self update
+uv python pin 3.14
+uv sync --extra dev --extra docs --upgrade
+
+uvx pre-commit install
+git add -A
+uvx pre-commit run --all-files
+
+uv run python -m cintel.pipeline_case
+
+uv run ruff format .
+uv run ruff check . --fix
+uv run zensical build
+
+git add -A
+git commit -m "update"
+git push -u origin main
+```
+
+</details>
+
+## Notes
+
+- Use the **UP ARROW** and **DOWN ARROW** in the terminal to scroll through past commands.
+- Use `CTRL+f` to find (and replace) text within a file.
