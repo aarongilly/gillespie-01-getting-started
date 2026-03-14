@@ -15,13 +15,12 @@ title: Continuous Intelligence 01 Getting Started
 date-released: "2026-03-06"
 
 authors:
-  - family-names: Case
-    given-names: Denise M.
-    orcid: "https://orcid.org/0000-0001-6165-7389"
+  - family-names: Gillespie
+    given-names: Aaron
     affiliation: "Northwest Missouri State University, USA"
 
-repository-code: "https://github.com/denisecase/cintel-01-getting-started"
-url: "https://github.com/denisecase/cintel-01-getting-started"
+repository-code: "https://github.com/aarongillespie/cintel-01-getting-started"
+url: "https://github.com/aarongillespie/cintel-01-getting-started"
 license: MIT
 
 abstract: |
