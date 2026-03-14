@@ -3,6 +3,9 @@
 This site provides documentation for this project.
 Use the navigation to explore module-specific materials.
 
+> [!INFO]
+> Aaron added this callout syntax to see if it's supported.
+
 ## How-To Guide
 
 Many instructions are common to all our projects.
