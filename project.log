@@ -66,3 +66,40 @@
 2026-03-13 20:34:19 | INFO | P1 | Pipeline executed successfully!
 2026-03-13 20:34:19 | INFO | P1 | ========================
 2026-03-13 20:34:19 | INFO | P1 | END main()
+2026-03-13 21:44:44 | INFO | P1 | === RUN START ===
+2026-03-13 21:44:44 | INFO | P1 | project=CINTEL
+2026-03-13 21:44:44 | INFO | P1 | repo_dir=gillespie-01-getting-started
+2026-03-13 21:44:44 | INFO | P1 | python=3.14.3
+2026-03-13 21:44:44 | INFO | P1 | os=Darwin 25.3.0
+2026-03-13 21:44:44 | INFO | P1 | shell=zsh
+2026-03-13 21:44:44 | INFO | P1 | cwd=.
+2026-03-13 21:44:44 | INFO | P1 | github_actions=False
+2026-03-13 21:44:44 | INFO | P1 | ========================
+2026-03-13 21:44:44 | INFO | P1 | START main()
+2026-03-13 21:44:44 | INFO | P1 | ========================
+2026-03-13 21:44:44 | INFO | P1 | ROOT_DIR = .
+2026-03-13 21:44:44 | INFO | P1 | DOCS_DIR = docs
+2026-03-13 21:44:44 | INFO | P1 | ========================
+2026-03-13 21:44:44 | INFO | P1 | Pipeline executed successfully!
+2026-03-13 21:44:44 | INFO | P1 | ========================
+2026-03-13 21:44:44 | INFO | P1 | END main()
+2026-03-13 22:14:42 | INFO | P1 | === RUN START ===
+2026-03-13 22:14:42 | INFO | P1 | project=CINTEL
+2026-03-13 22:14:42 | INFO | P1 | repo_dir=gillespie-01-getting-started
+2026-03-13 22:14:42 | INFO | P1 | python=3.14.3
+2026-03-13 22:14:42 | INFO | P1 | os=Darwin 25.3.0
+2026-03-13 22:14:42 | INFO | P1 | shell=zsh
+2026-03-13 22:14:42 | INFO | P1 | cwd=.
+2026-03-13 22:14:42 | INFO | P1 | github_actions=False
+2026-03-13 22:14:42 | INFO | P1 | ========================
+2026-03-13 22:14:42 | INFO | P1 | START main()
+2026-03-13 22:14:42 | INFO | P1 | ========================
+2026-03-13 22:14:42 | INFO | P1 | ROOT_DIR = .
+2026-03-13 22:14:42 | INFO | P1 | DOCS_DIR = docs
+2026-03-13 22:14:42 | INFO | P1 | Loaded JSON file: /Users/aaron/Developer/gillespie-01-getting-started/data/simple_mod.json
+2026-03-13 22:14:42 | INFO | P1 | note: Aaron's simple addition
+2026-03-13 22:14:42 | INFO | P1 | problems: ['Some Mac stuff', 'Poorly timed travel']
+2026-03-13 22:14:42 | INFO | P1 | ========================
+2026-03-13 22:14:42 | INFO | P1 | Pipeline executed successfully!
+2026-03-13 22:14:42 | INFO | P1 | ========================
+2026-03-13 22:14:42 | INFO | P1 | END main()

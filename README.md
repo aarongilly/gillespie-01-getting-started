@@ -1,3 +1,23 @@
+# About
+
+Author: Aaron Gillespie
+Repo: https://github.com/aarongilly/gillespie-01-getting-started
+Date: 2026-03-13
+
+This repo was created when completing CSIS 44630 - "Continuous Intelligence" at NW Missouri State University.
+
+## Running the Pipeline
+
+```terminal
+python3 src/cintel/pipeline_gillespie.py
+```
+*note - for Windows I believe "python3" is replaced with just "python"*
+
+> [!INFO]
+> All content below this line was in the original `README.md`
+
+---
+
 # cintel-01-getting-started
 
 [![Python 3.14+](https://img.shields.io/badge/python-3.14%2B-blue?logo=python)](#)
